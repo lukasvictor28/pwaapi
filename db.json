@@ -1,0 +1,16 @@
+{
+"products":[
+{"id":1,"nama":"Vulture, turkey","category":"Khaki"},
+{"id":2,"nama":"Crab-eating fox","category":"Purple"},
+{"id":3,"nama":"American beaver","category":"Blue"},
+{"id":4,"nama":"Worm snake (unidentified)","category":"Orange"},
+{"id":5,"nama":"Grenadier, purple","category":"Red"},
+{"id":6,"nama":"Crocodile, nile","category":"Yellow"},
+{"id":7,"nama":"South American puma","category":"Turquoise"},
+{"id":8,"nama":"Blue-faced booby","category":"Maroon"},
+{"id":9,"nama":"Monkey, vervet","category":"Mauv"},
+{"id":10,"nama":"Vicuna","category":"Blue"},
+{"id":11,"nama":"Gull, southern black-backed","category":"Purple"},
+{"id":12,"nama":"Monitor, two-banded","category":"Violet"},
+{"id":13,"nama":"Brown pelican","category":"Pink"}]
+}
